@@ -10,10 +10,10 @@ function About() {
       Mi firme deseo de crecimiento profesional me motiva a sobresalir tanto en el ámbito académico como laboral. Sin embargo, mi enfoque va más allá de eso; también busco un crecimiento personal continuo. Creo en la importancia de desarrollarme como individuo y siempre busco maneras de mejorar y expandir mis horizontes.
       Estoy ansioso por aprovechar nuevas oportunidades y contribuir con mi experiencia y habilidades en futuros proyectos. Siempre estoy abierto a colaboraciones y dispuesto a enfrentar cualquier desafío que se presente en el camino.
       </p>
-   
       <img src="#/" alt="nombres"/>
     </div>
   )
 }
 
 export default About;
+      

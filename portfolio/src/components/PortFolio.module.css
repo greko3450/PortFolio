@@ -1,0 +1,36 @@
+.cardContainer{
+  display: flex;
+  margin: 13px;
+}
+@import url('https://fonts.googleapis.com/css2?family=Charm:wght@400;700&family=Inter:wght@300;500;800&family=Reem+Kufi:wght@400;500;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Charm:wght@400;700&family=Inter:wght@300;500;800&family=Reem+Kufi:wght@400;500;700&display=swap');
+
+.portContainer {
+  background-color: #f2f2f2;
+  padding: 20px;
+  border-radius: 5px;
+  box-shadow: 0 0 5px rgba(0, 0, 0, 0.2);
+  margin: 13px 13px 13px 13px;
+  position: relative;
+  
+}
+.portContainer h2{
+ font-size: 20px;
+ font-family: 'Reem Kufi', sans-serif;
+ font-weight: 700;
+}
+
+
+.portContainer img{
+  height: 250px;
+  width: 250px;
+}
+
+.portContainer p{
+  font-size: 16px;
+  font-family: 'Reem Kufi', sans-serif;
+  position: relative;
+  top: 10px;
+  text-align: left;
+ }
+ 
